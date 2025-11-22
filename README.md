@@ -1,4 +1,12 @@
+# Hello, I'm Leighton.
+
 This is a collection of my graduate-level analytic coursework, including data cleaning, modelling, and interpretation using social science data.
+
+## Featured Projects
+
+- [Age Motives Physical Activity](https://github.com/Leighton01/physical-activity-motivation) - Analysis of UK physical activity data using SEM and LPA
+- [Mortality Forecast](https://github.com/Leighton01/mortality-forecast) - Comparison of LN and Lee-Carter mortality models on Canadian data
+- [Demographics Visualization](https://github.com/Leighton01/demographics-visualization) - Exploratory analysis and video walkthrough of contemporary population patterns in Canada
 
 All projects are coded in R.
 
