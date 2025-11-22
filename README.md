@@ -1,4 +1,6 @@
-## Hi there 👋
+This is a collection of my graduate-level analytic coursework, including data cleaning, modelling, and interpretation using social science data.
+
+All projects are coded in R.
 
 <!--
 **Leighton01/Leighton01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
