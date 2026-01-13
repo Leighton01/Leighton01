@@ -4,11 +4,13 @@ This is a collection of my graduate-level analytic coursework, including data cl
 
 ## Featured Projects
 
-- [Age Motives Physical Activity](https://github.com/Leighton01/physical-activity-motivation) - Analysis of UK physical activity data using SEM and LPA
+- [Age Motives Physical Activity](https://github.com/Leighton01/physical-activity-motivation) - Analysis of UK physical activity data using Structural Equation Modelling, Latent Class Analysis, and Multinominal Logistic Regression (GLM).
+- [Excel File Combiner](https://github.com/Leighton01/combine-files/tree/main) - A VBA macro that automates the formatting and combination of client data files.
 - [Mortality Forecast](https://github.com/Leighton01/mortality-forecast) - Comparison of LN and Lee-Carter mortality models on Canadian data
 - [Demographics Visualization](https://github.com/Leighton01/demographics-visualization) - Exploratory analysis and video walkthrough of contemporary population patterns in Canada
 
-All projects are coded in R.
+
+All projects are coded in R and VBA.
 
 <!--
 **Leighton01/Leighton01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
