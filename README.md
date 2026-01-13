@@ -1,6 +1,6 @@
 # Hello, I'm Leighton.
 
-This is a collection of my graduate-level analytic coursework, including data cleaning, modelling, and interpretation using social science data.
+A collection of my graduate-level analytics coursework and automation projects, demonstrating data cleaning, statistical modeling, and interpretation using social science datasets.
 
 ## Featured Projects
 
